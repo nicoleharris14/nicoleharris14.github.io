@@ -102,6 +102,11 @@ footer a {
     padding-left: 20%;
 }
 
-
+.aboutmedia {
+     margin: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
 
 
