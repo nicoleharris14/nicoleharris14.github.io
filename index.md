@@ -16,13 +16,10 @@
           gtag('js', new Date());
           gtag('config', 'UA-171523270-1');
         </script>
-
         <title>Nicole's Cupcake Shop</title>
         <link href="style.css" rel="stylesheet">
-       <link href="https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,400;0,700;0,800;1,300&display=swap" rel="stylesheet">
-             
+       <link href="https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,400;0,700;0,800;1,300&display=swap" rel="stylesheet">    
     </head>
-
     <body class="mainbody">
                 <!-- Google Tag Manager (noscript) -->
         <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KH9PZG5"
@@ -30,7 +27,6 @@
         <!-- End Google Tag Manager (noscript) -->
         <header>
             <nav>
-
                 <span id="home"><a href="index.html">Home!</a></span>
                 <span><a href="about.html">About</a></span>
                 <span><a href="pricelist.html">Price List</a></span>
@@ -38,7 +34,6 @@
                 <span><a href="gallery.html">Gallery</a></span>
             </nav>
         </header>
-
         <main>
             <h1 id="beginning">Nicole's Cupcake Shop</h1>
             <p>Jump to <a href="#middle">middle</a> or <a href="#end">end</a></p>
@@ -72,12 +67,10 @@
             <br>
             <p>Jump to <a href="#middle">middle</a> or <a href="#beginning">beginning</a></p>
         </main>
-
         <footer id="end">
                 <div class="contact">
                     <a href="about.html">Contact Us</a>
                 </div>
         </footer>
-    
     </body>
 </html>
