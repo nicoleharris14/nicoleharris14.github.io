@@ -6,6 +6,27 @@ main {
     text-align: center;
 }
 
+.pricelist {
+    height: 85%;
+
+}
+
+.thankyou {
+    height: 85%;
+}
+
+.form {
+    height: 85%;
+}
+
+.pricelist {
+    height: 85%;
+}
+
+.gallery {
+    height: 85%;
+}
+
 nav a{
     margin: 10px;
     padding: 10px;
@@ -103,10 +124,14 @@ footer a {
 }
 
 .aboutmedia {
-     margin: 10px;
-    padding: 0px 30px;
+     margin: 20px;
     display: flex;
     flex-wrap: wrap;
+    justify-content: center;
+    padding: 0px 30px;
+}
+
+figcaption .aboutmedia {
     justify-content: center;
 }
 
