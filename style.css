@@ -6,27 +6,6 @@ main {
     text-align: center;
 }
 
-.pricelist {
-    height: 85%;
-
-}
-
-.thankyou {
-    height: 85%;
-}
-
-.form {
-    height: 85%;
-}
-
-.pricelist {
-    height: 85%;
-}
-
-.gallery {
-    height: 85%;
-}
-
 nav a{
     margin: 10px;
     padding: 10px;
@@ -55,6 +34,7 @@ body {
     margin: 0;
     font-family: "Nunito";
     font-size: 18px;
+    height: 100%;
 }
 
 h1 {
